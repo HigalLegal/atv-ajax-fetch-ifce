@@ -1,0 +1,15 @@
+.carros > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
+.carros > ul > li{
+    list-style: none;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+}

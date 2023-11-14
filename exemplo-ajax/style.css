@@ -1,0 +1,22 @@
+#gatos {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    width: auto;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.div-imagens {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 20px double #000000;
+}
